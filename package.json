@@ -1,7 +1,8 @@
 {
-  "name": "krantenwijk-app",
+"name": "krantenwijk-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jaco-orgel.github.io/HHk-kerkblad"
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
